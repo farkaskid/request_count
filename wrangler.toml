@@ -2,5 +2,5 @@ name = "request-count"
 type = "webpack"
 zone_id = ""
 private = false
-account_id = "3a8b90fb6d072da4a142dd6a400d7558"
+account_id = "account_id"
 route = ""
