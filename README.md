@@ -1,12 +1,11 @@
-# 👷 `worker-template` Hello World
+# A Simple requests counting app made using cloudflare Workers
 
-A template for kick starting a Cloudflare worker project.
-
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+Counts the number of requests that came from your country.
 
 #### Wrangler
 
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
+Build: `wrangler build`
+Preview: `wrangler preview`
 
 ```
 wrangler generate projectname https://github.com/cloudflare/worker-template
